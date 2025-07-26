@@ -1,9 +1,9 @@
-
-
-export default function Home() {
+const Home = () => {
   return (
-    <div>
-      <h1 className="bg-blue-500 text-yellow-500 p-4">Whiz testing CSS</h1>
+    <div className="pt-24 px-4">
+      <h1> Welcome to Splash App </h1>
     </div>
   );
 };
+
+export default Home;

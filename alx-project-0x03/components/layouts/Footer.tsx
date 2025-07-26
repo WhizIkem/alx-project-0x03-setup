@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div>
-          <h4 className="text-lg font-semibold mb-4">Useful Linnks</h4>
+          <h4 className="text-lg font-semibold mb-4">Useful Links</h4>
           <ul>
             <li className="mb-2">
               <a href="/about" className="text-gray-400 hover:text-white transition duration-300">
